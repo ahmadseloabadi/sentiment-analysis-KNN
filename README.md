@@ -1,2 +1,2 @@
-# sentiment-analysis-KNN
-analisis sentimen dengan menggunakan metode KNN
+# sentiment-analysis-KNN-SMOTE
+analisis sentimen dengan menggunakan metode KNN dan SMOTE
